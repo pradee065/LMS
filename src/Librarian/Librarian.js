@@ -1,10 +1,10 @@
 import React from 'react';
 import './Librarian.css'
 
-const Librarian = () => {
+const Librarian = (props) => {
    return (
        <div className="librarain-container">
-        <h1>Librarian Member Login </h1>
+        <h2>Librarian Member Login </h2>
         <form>
           <label for="uname"><b>Username</b></label>
           <input type="text"></input>
