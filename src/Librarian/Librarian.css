@@ -1,0 +1,33 @@
+.librarain-container {
+    max-width: 960px;
+    border: 6px solid #00c4ff;
+    box-shadow: 2px 2px #000;
+    height: 500px;
+    margin: 0px auto;
+    margin: 100px;
+}
+h1 {
+    color: red;
+    padding: 45px;
+}
+form {
+    display: inline-grid;
+    width: 70%;
+}
+label {
+    text-align: left;
+}
+input {
+    padding: 10px;
+}
+b {
+    padding: 20px 0px;
+}
+button {
+    width: 30%;
+    margin-top: 21px;
+    background: #ff00eb;
+    border: 2px solid #d8ff0080;
+    padding: 10px;
+    text-align: revert;
+}
